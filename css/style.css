@@ -1277,3 +1277,20 @@ header {
 header p{
     font-size: 150px;
 }
+
+.slideshow {
+    width: 100%;
+    max-width: inherit;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+    border: 1px solid #000;
+}
+
+.slideshow img {
+    position: absolute;
+    top: 0;
+    left -100%;
+    width 100%;
+    display: block;
+}
