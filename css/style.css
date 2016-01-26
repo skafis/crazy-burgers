@@ -1267,3 +1267,13 @@ xpush
     transform: translateX(100%);
   }
 }
+
+header {
+    font-size: 230px;
+    font-weight: 400px;
+    text-align: center;
+}
+
+header p{
+    font-size: 150px;
+}
