@@ -1327,3 +1327,8 @@ header p{
     -webkit-animation:autoplay 48s linear infinite 30s;
     animation:autoplay 48s linear infinite 30s;
 }
+
+.slideshow img:nth-of-type(7){
+    -webkit-animation:autoplay 48s linear infinite 36s;
+    animation:autoplay 48s linear infinite 36s;
+}
