@@ -1269,13 +1269,13 @@ xpush
 }
 
 header {
-    font-size: 230px;
+    font-size: 130px;
     font-weight: 400px;
     text-align: center;
 }
 
 header p{
-    font-size: 150px;
+    font-size: 50px;
 }
 
 .slideshow {
@@ -1295,8 +1295,10 @@ header p{
     display: block;
 }
 
+/* image transition and time*/
+
 .slideshow img:first-child {
-    position: relative;
+    position: relative
 }
 .slideshow img:nth-of-type(1){
     -webkit-animation:autoplay 48s linear infinite 0s;
@@ -1338,6 +1340,7 @@ header p{
     animation:autoplay 48s linear infinite 42s;
 }
 
+/*image transition timefrom one image to another*/
 @keyframes autoplay {
     0% {left: -100%;}
     1%, 12.5% {left:0;}
