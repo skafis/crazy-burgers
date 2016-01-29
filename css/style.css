@@ -55,13 +55,13 @@ a {
 }
 
 .cd-intro {
-  width: 90%;
+  width: 50%;
   max-width: 768px;
   text-align: center;
 }
 
 .cd-intro {
-  margin: 4em auto;
+/*  margin: 4em auto;*/
 }
 @media only screen and (min-width: 768px) {
   .cd-intro {
@@ -100,7 +100,7 @@ a {
   position: absolute;
   white-space: nowrap;
   left: 0;
-  top: 0;
+/*  top: 0;*/
 }
 .cd-words-wrapper b.is-visible {
   position: relative;
