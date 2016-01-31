@@ -66,8 +66,8 @@ a {
 .cd-intro {
     border: solid;
     border-radius: 50%;
-  max-width: 768px;
-  text-align: center;
+/*  max-width: 768px;*/
+/*  text-align: center;*/
 }
 
 .cd-intro {
@@ -75,7 +75,7 @@ a {
 }
 @media only screen and (min-width: 768px) {
   .cd-intro {
-    margin: 5em auto;
+/*    margin: 5em auto;*/
   }
 }
 @media only screen and (min-width: 1170px) {
