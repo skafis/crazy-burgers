@@ -30,8 +30,8 @@ html {
 body {
   font-size: 1.6rem;
   font-family: "Source Sans Pro", sans-serif;
-  color: #aebcb9;
-  background-color: #0d0d0d;
+  color: #dff2fa;
+  background-color: #19799f;
 }
 
 a {
@@ -64,7 +64,8 @@ a {
 }
 
 .cd-intro {
-  width: 50%;
+    border: solid;
+    border-radius: 50%;
   max-width: 768px;
   text-align: center;
 }
